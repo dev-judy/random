@@ -46,7 +46,7 @@ const App = () => {
                 onBeforePageScroll={handleBeforePageChange}>
                 <section className="component" style={{ backgroundColor: "black" }}>
                     <div>
-                        <h1>Hands UP! 경품 추첨 - 범위입력</h1>
+                        <h1>Hands UP! 경품 추첨</h1>
                         <h2>랜덤 최대 범위 입력하기(기본적으로 1에서 부터 입력한 값까지 범위가 설정됩니다)</h2>
 
                         <div className="inputWrapper">
