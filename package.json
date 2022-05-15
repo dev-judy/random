@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-flip-numbers": "^3.0.5",
+    "react-page-scroller": "^2.2.1"
+  }
+}
